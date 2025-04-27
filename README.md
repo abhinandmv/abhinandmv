@@ -60,7 +60,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmllaTNpNHpnMzRjdmJiNHBoYTdvdHZlZjU5OGVtbzBtcjZrcWRocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
-I started my coding journey over 2 years ago, initially focusing on Full Stack Web Development. Throughout this time, I've developed a passion for creating efficient and user-friendly web applications. I'm particularly interested in financial technology and accounting systems that help businesses manage their finances effectively.
+I began my coding journey over two years ago, initially concentrating on Full Stack Web Development. Since then, I have developed a strong passion for building efficient, scalable, and user-friendly web applications. My experience has equipped me with the skills to design and develop solutions that meet both technical and user experience requirements effectively.
 
 ## Let's Connect! 🤝
 
