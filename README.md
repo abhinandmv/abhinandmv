@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVyaWc1YnFwMjlocjN1ejNqcnI2bDBwNWNjZzZtc3A3eWhvaGZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a passionate Full Stack Developer with expertise in building web-based accounting systems and scalable web applications. With over 2 years of development experience, I focus on creating efficient, user-friendly solutions that solve real-world problems.
+I'm a Full Stack Developer passionate about Python, web technologies, and building meaningful, real-world projects. Always eager to learn, collaborate, and push creative ideas into code.
 
 ```python
 class AboutMe:
@@ -60,6 +60,9 @@ class AboutMe:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-2F80ED?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
 
@@ -73,7 +76,6 @@ class AboutMe:
   <img src="https://github-readme-stats.vercel.app/api?username=abhinandmv&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandmv&layout=compact&theme=tokyonight" height="170" />
 </div>
-
 
 ## 🌱 My Coding Journey
 
