@@ -50,7 +50,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinandmv&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinandmv&show_icons=true&count_private=true&hide=prs&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandmv&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
