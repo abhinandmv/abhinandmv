@@ -50,7 +50,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinandmv&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=abhinandmv&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandmv&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandmv&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
