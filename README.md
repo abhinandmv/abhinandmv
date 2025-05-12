@@ -30,7 +30,6 @@ class AboutMe:
 
 ## 💼 What I'm Up To
 
-- 🔭 Currently developing **Web-based Accounting Systems**
 - 🌱 Expanding my knowledge in **Full Stack Development & Cloud Architecture**
 - 👯 Looking for collaboration on **Open Source Projects**
 - 📚 Learning about **Microservices Architecture & DevOps Practices**
