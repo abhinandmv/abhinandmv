@@ -70,7 +70,7 @@ class AboutMe:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandmv&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=abhinandmv&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
