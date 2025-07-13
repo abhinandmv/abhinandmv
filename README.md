@@ -12,7 +12,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVyaWc1YnFwMjlocjN1ejNqcnI2bDBwNWNjZzZtc3A3eWhvaGZleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a Full Stack Developer passionate about Python, web technologies, and building meaningful, real-world projects. Always eager to learn, collaborate, and push creative ideas into code.
 
