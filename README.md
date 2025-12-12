@@ -82,11 +82,6 @@ class AboutMe:
   <img src="https://nirzak-streak-stats.vercel.app?user=abhinandmv&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinandmv&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandmv&layout=compact&theme=tokyonight" height="170" />
-</div>
-
 ## 🌱 My Coding Journey
 
 <div align="center">
