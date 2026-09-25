@@ -2,7 +2,7 @@
 
 # Hi, I'm Abhinand 👋
 
-### Full Stack & AI Developer · CS @ SRM IST · IEEE Published Researcher
+### Full Stack & AI Developer · CS @ SRM IST
 
 <a href="https://abhinandmv.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/abhinand-mv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
